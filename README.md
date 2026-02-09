@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hi 👋,I'm Nikhil VS
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&show_icons=true&theme=dark&hide_border=true)
-
 
 
 ## 🧰 Languages & Tools
