@@ -1,4 +1,4 @@
-## Hi 👋,I'm Nikhil VS
+### Hi 👋,I'm Nikhil VS
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
