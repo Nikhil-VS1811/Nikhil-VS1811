@@ -1,4 +1,4 @@
-### Hi 👋,I'm Nikhil VS
+# Hi 👋,I'm Nikhil VS
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
@@ -16,7 +16,9 @@
 
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&show_icons=true&theme=dark&hide_border=true" />
 </p>
+
