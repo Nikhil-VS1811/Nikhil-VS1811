@@ -15,10 +15,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
