@@ -1,5 +1,5 @@
-# Hi 👋,I'm Nikhil VS.
-## 📊 GitHub Status.
+# Hi 👋,I'm Nikhil VS
+## 📊 GitHub Stat
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
 
