@@ -1,4 +1,5 @@
 # Hi 👋,I'm Nikhil VS 
+my name is Nikhil VS from Bengaluru,India who is interested in building projects
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
