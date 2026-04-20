@@ -1,11 +1,21 @@
 # Hi 👋,I'm Nikhil VS 
-my name is Nikhil VS from Bengaluru,India who is interested in building projects
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-VS1811&color=brightgreen&style=for-the-badge)
+
+Building backend systems using Python, Flask, and SQL  
+Solving problems on LeetCode to sharpen DSA  
+Currently developing AI-based projects
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&show_icons=true&theme=dark&hide_border=true)
 
+
+## 🎯 Current Focus
+- Data Structures & Algorithms (LeetCode)
+- Backend Development (Flask + SQLAlchemy)
+- Building AI-integrated applications
 
 ## 🧰 Languages & Tools
  
