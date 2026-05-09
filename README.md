@@ -1,4 +1,4 @@
-# Hi 👋,I'm Nikhil VS 
+# Hi 👋,I'm Nikhil V S 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-VS1811&color=brightgreen&style=for-the-badge)
 
