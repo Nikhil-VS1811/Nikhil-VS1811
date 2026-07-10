@@ -1,10 +1,56 @@
-# Hi 👋,I'm Nikhil VS 
+<h1 align="center">Hi 👋, I'm Nikhil VS</h1>
+
+<h3 align="center">
+AI • Machine Learning • Backend Development • DSA
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Information+Science+Student;Oracle+Certified+Agentic+AI+Associate;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+Learner;Building+AI+Powered+Applications" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-VS1811&color=brightgreen&style=for-the-badge)
 
-Building backend systems using Python, Flask, and SQL  
-Solving problems on LeetCode to sharpen DSA  
-Currently developing AI-based projects
+## 👨‍💻 About Me
+
+🎓 Final-year Information Science Engineering Student
+
+🤖 Passionate about AI, Machine Learning and Backend Engineering
+
+💻 Solving Data Structures & Algorithms daily
+
+🚀 Building AI-powered Full Stack Applications
+
+🌱 Currently learning Agentic AI, LLMs, FastAPI and Cloud Technologies
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-vs/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Nikhilvs1811/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nikhilvenkatesh1811@gmail.com)
+
+
+## 🏆 Certifications
+
+🥇 Oracle Agentic AI Certified Foundations Associate (2026)
+
+🥈 Oracle Generative AI Certified Professional (2025)
+
+🥈 Oracle AI Foundations Associate (2025)
+
+🥉 Google Python Crash Course
+
+🥉 DeepLearning.AI Machine Learning
+
+![Oracle](https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![OCI](https://img.shields.io/badge/Oracle-Generative_AI-red?style=for-the-badge&logo=oracle)
+
+![Python](https://img.shields.io/badge/Google-Python-blue?style=for-the-badge&logo=google)
+
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-ML-black?style=for-the-badge)
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
@@ -13,9 +59,16 @@ Currently developing AI-based projects
 
 
 ## 🎯 Current Focus
-- Data Structures & Algorithms (LeetCode)
-- Backend Development (Flask + SQLAlchemy)
-- Building AI-integrated applications
+
+✔ Data Structures & Algorithms (LeetCode)
+
+✔ AI & Machine Learning
+
+✔ Backend Development (FastAPI, Flask)
+
+✔ Full Stack Development
+
+✔ Building Production Ready AI Projects
 
 ## 🧰 Languages & Tools
  
@@ -35,3 +88,71 @@ Currently developing AI-based projects
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+## 🚀 Featured Projects
+
+### 🍽️ FEED-MAP
+
+AI-powered Food Surplus Exchange Platform
+
+Tech Stack
+
+React
+
+Node.js
+
+MongoDB
+
+Google Maps
+
+JWT
+
+Features
+
+✔ Donor Dashboard
+
+✔ NGO Dashboard
+
+✔ Delivery Dashboard
+
+✔ AI Food Recommendation
+
+✔ Agentic AI Matching
+
+🔗 Repository Link
+
+---
+
+### 🤖 AI Code Review System
+
+Tech Stack
+
+FastAPI
+
+PostgreSQL
+
+Docker
+
+Ollama
+
+LLM
+
+Features
+
+✔ AI Code Review
+
+✔ REST API
+
+✔ Authentication
+
+✔ Local LLM Integration
+
+🔗 Repository Link
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil-VS1811&theme=onedark)](https://github.com/Nikhil-VS1811)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhilvs1811)
+
+⭐ Thanks for visiting my GitHub Profile!
