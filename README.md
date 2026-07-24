@@ -5,7 +5,7 @@ AI • Machine Learning • Backend Development • DSA
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Information+Science+Student;Oracle+Certified+Agentic+AI+Associate;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+Learner;Building+AI+Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Information+Science+Student;Backend+Developer;AI+%26+LLM+Integration+Enthusiast;DSA+Learner;Building+Full+Stack+AI+Applications" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil-VS1811&color=brightgreen&style=for-the-badge)
@@ -14,13 +14,13 @@ AI • Machine Learning • Backend Development • DSA
 
 🎓 Final-year Information Science Engineering Student
 
-🤖 Passionate about AI, Machine Learning and Backend Engineering
+🤖 Passionate about AI/LLM integration, Machine Learning, and Backend Engineering
 
-💻 Solving Data Structures & Algorithms daily
+💻 Solving Data Structures & Algorithms daily (300+ problems solved)
 
-🚀 Building AI-powered Full Stack Applications
+🚀 Building full-stack applications with real LLM and ML integrations
 
-🌱 Currently learning Agentic AI, LLMs, FastAPI and Cloud Technologies
+🌱 Currently learning FastAPI, distributed systems, and cloud technologies
 
 ## 🌐 Connect With Me
 
@@ -30,126 +30,106 @@ AI • Machine Learning • Backend Development • DSA
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nikhilvenkatesh1811@gmail.com)
 
-
-## 🏆 Certifications
-
-🥇 Oracle Agentic AI Certified Foundations Associate (2026)
-
-🥈 Oracle Generative AI Certified Professional (2025)
-
-🥈 Oracle AI Foundations Associate (2025)
-
-🥉 Google Python Crash Course
-
-🥉 DeepLearning.AI Machine Learning
-
-![Oracle](https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![OCI](https://img.shields.io/badge/Oracle-Generative_AI-red?style=for-the-badge&logo=oracle)
-
-![Python](https://img.shields.io/badge/Google-Python-blue?style=for-the-badge&logo=google)
-
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-ML-black?style=for-the-badge)
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil-VS1811&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-VS1811&show_icons=true&theme=dark&hide_border=true)
 
-
 ## 🎯 Current Focus
 
-✔ Data Structures & Algorithms (LeetCode)
+✔ Data Structures & Algorithms (LeetCode, contest rating ~1466)
 
-✔ AI & Machine Learning
+✔ Backend Development (FastAPI, Node.js)
 
-✔ Backend Development (FastAPI, Flask)
+✔ LLM Integration & AI-Assisted Applications
+
+✔ Applied Machine Learning (XGBoost, SHAP)
 
 ✔ Full Stack Development
 
-✔ Building Production Ready AI Projects
-
 ## 🧰 Languages & Tools
- 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
 
 ## 🚀 Featured Projects
 
-### 🍽️ FEED-MAP
+### ⚙️ NodeBase — AI Workflow Builder
 
-AI-powered Food Surplus Exchange Platform
+Visual, drag-and-drop workflow automation platform with a DAG-based execution engine
 
-Tech Stack
+**Tech Stack:** Next.js · TypeScript · tRPC · PostgreSQL · Inngest · Vercel AI SDK
 
-React
+**Features**
 
-Node.js
+✔ DAG execution engine with topological sort and cycle detection
 
-MongoDB
+✔ Unified OpenAI, Gemini, and Claude integration via the Vercel AI SDK
 
-Google Maps
+✔ Handlebars-based templating for cross-node data flow
 
-JWT
+✔ Webhook-triggered execution (Stripe, Google Forms)
 
-Features
+✔ Real-time per-node execution status via Inngest pub/sub
 
-✔ Donor Dashboard
+✔ Encrypted, per-user API credential storage (AES-256-GCM)
 
-✔ NGO Dashboard
-
-✔ Delivery Dashboard
-
-✔ AI Food Recommendation
-
-✔ Agentic AI Matching
-
-🔗 Repository Link
+🔗 [Repository](https://github.com/Nikhil-VS1811/nodebase-ai-workflow-builder)
 
 ---
 
 ### 🤖 AI Code Review System
 
-Tech Stack
+AI-powered code review platform with local LLM integration and static security analysis
 
-FastAPI
+**Tech Stack:** FastAPI · PostgreSQL · Docker · Ollama (Qwen2.5-Coder) · JWT
 
-PostgreSQL
+**Features**
 
-Docker
+✔ AI-generated code reviews via locally hosted LLM (Ollama)
 
-Ollama
+✔ Provider abstraction supporting live LLM and mock review modes
 
-LLM
+✔ Multi-language static security scanner (Python, JS, TS, Java, C++)
 
-Features
+✔ Hybrid scoring — static findings penalize AI-generated security scores
 
-✔ AI Code Review
+✔ JWT authentication with ownership-scoped submission/review access
 
-✔ REST API
+🔗 [Repository](https://github.com/Nikhil-VS1811/AI-Code-Reviewer)
 
-✔ Authentication
+---
 
-✔ Local LLM Integration
+### 💳 Fraud Detection System
 
-🔗 Repository Link
+End-to-end fraud detection pipeline with explainable predictions
+
+**Tech Stack:** XGBoost · FastAPI · React · PostgreSQL · SHAP · Docker
+
+**Features**
+
+✔ Trained and benchmarked Logistic Regression, Random Forest, and XGBoost (97.92% ROC-AUC)
+
+✔ SMOTE oversampling applied post-split to handle severe class imbalance
+
+✔ Real-time SHAP explainability for individual predictions
+
+✔ Full-stack deployment (React dashboard, FastAPI, PostgreSQL, Render)
+
+🔗 [Repository](https://github.com/Nikhil-VS1811/fraud-detection-system)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikhil-VS1811&theme=onedark)](https://github.com/Nikhil-VS1811)
 
