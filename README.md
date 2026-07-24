@@ -25,9 +25,7 @@ AI • Machine Learning • Backend Development • DSA
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-vs/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Nikhilvs1811/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:nikhilvenkatesh1811@gmail.com)
 
 ## 📊 GitHub Stats
